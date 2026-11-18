@@ -1,59 +1,55 @@
-### Improved `README.md`
-
-````markdown
 # Luz
 
-A small JavaScript project for learning and practicing web development.
+Um pequeno projeto em JavaScript para aprender e praticar desenvolvimento web.
 
-## Getting Started
+## Primeiros passos
 
-### Prerequisites
+### Pré-requisitos
 
-- A modern web browser
-- [Node.js](https://nodejs.org/) 18 or later (optional, if the project uses npm)
+- Um navegador moderno
+- [Node.js](https://nodejs.org/) 18 ou mais recente (opcional, caso o projeto use npm)
 
-### Installation
+### Instalação
 
 ```bash
 git clone https://github.com/antoniocardosoneto6/Luz.git
 cd Luz
 ```
 
-Open `index.html` in your browser, or start a local server:
+Abra o arquivo `index.html` no navegador ou execute um servidor local:
 
 ```bash
 npx serve .
 ```
 
-## Usage
+## Uso
 
-Describe here how to use the project and what happens when the main features are opened or executed.
+Descreva aqui como usar o projeto e o que acontece ao abrir ou executar os recursos principais.
 
-## Features
+## Recursos
 
-- [ ] Add a clear project description
-- [ ] List the implemented features
-- [ ] Include screenshots or a demo
-- [ ] Document setup and execution
-- [ ] Add usage examples
-- [ ] Add a license
+- [ ] Adicionar uma descrição clara do projeto
+- [ ] Listar os recursos implementados
+- [ ] Incluir capturas de tela ou uma demonstração
+- [ ] Documentar a configuração e a execução
+- [ ] Adicionar exemplos de uso
+- [ ] Adicionar uma licença
 
-## Technologies
+## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
 
-## Contributing
+## Contribuições
 
-Contributions are welcome.
+Contribuições são bem-vindas.
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a pull request.
+1. Faça um fork do repositório.
+2. Crie uma branch para sua funcionalidade.
+3. Faça o commit das alterações.
+4. Abra um pull request.
 
-## License
+## Licença
 
-Specify the project license here.
-````
+Especifique aqui a licença do projeto.
